@@ -1,0 +1,1 @@
+searchState.loadedDescShard("ex00", 0, "Copies proper C-style string (null-terminated) at <code>src</code> into …\nCalculates the length of a C-style string …")

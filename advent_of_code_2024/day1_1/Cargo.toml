@@ -1,0 +1,5 @@
+[package]
+name = "day1_part1"
+authors = ["oohnivch"]
+
+[dependencies]

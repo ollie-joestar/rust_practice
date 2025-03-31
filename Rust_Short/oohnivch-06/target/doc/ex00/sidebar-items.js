@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ft_strcpy","ft_strlen","ft_swap"]};

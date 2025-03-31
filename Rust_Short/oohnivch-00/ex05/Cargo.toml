@@ -1,0 +1,16 @@
+[package]
+name = "Friday-the-13th"
+edition = "2021"
+authors = ["oohnivch"]
+default-run = "main"
+description = "Show all Friday the 13th throuout the years"
+publish = false
+
+[profile.release]
+strip = "symbols"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "src/main.rs"

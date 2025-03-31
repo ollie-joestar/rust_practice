@@ -1,0 +1,17 @@
+[package]
+name = "Guessing-game"
+edition = "2021"
+authors = ["oohnivch"]
+description = "Interactive program with random number that you have to guess"
+default-run = "main"
+publish = false
+
+[profile.release]
+strip = "symbols"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[dependencies]
+ftkit = "0.1.12"
