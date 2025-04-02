@@ -1,1 +1,0 @@
-searchState.loadedDescShard("maxi", 0, "Calculates the length of a C-style string …")

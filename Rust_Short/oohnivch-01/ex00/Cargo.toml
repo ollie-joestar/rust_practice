@@ -1,6 +1,0 @@
-[package]
-name = "reference_me_daddy"
-edition = "2021"
-authors = ["oohnivch"]
-
-[dependencies]

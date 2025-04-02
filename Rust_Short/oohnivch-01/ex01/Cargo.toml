@@ -1,7 +1,0 @@
-[package]
-name = "point_of_no_return"
-version = "2.0.0"
-edition = "2021"
-authors = ["oohnivch"]
-
-[dependencies]

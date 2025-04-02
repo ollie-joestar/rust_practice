@@ -1,1 +1,0 @@
-window.ALL_CRATES = ["ex00","ex01","maxi"];
